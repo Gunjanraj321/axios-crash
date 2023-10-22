@@ -24,7 +24,6 @@ function getTodos() {
 function addTodo() {
   // axios({
   //   method: "post",
-  //   url: "https://jsonplaceholder.typicode.com/todos",
   //   data : {
   //     title:'New todo',
   //     completed:false
